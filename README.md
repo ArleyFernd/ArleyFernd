@@ -1,0 +1,5 @@
+- Olá eu me chamo Arley Fernandes 
+- Sou estudante e entusiasta da área de desenvolvimento.
+- No momento estou me especializando em desenvolvimento Front-End com Javascript e React.js
+- Usarei esse perfil para expor todos os projetos relevantes que produzir ao logo do tempo.
+- OK COMPUTER.. 
